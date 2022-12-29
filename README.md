@@ -5,3 +5,4 @@ A one-day attempt to implement different algorithms of deep metric learning desc
 - sigmoid on l2 distance of embeddings
 - soft target
 - arcface
+- cosine embedding loss
